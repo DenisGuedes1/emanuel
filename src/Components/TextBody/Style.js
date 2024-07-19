@@ -181,7 +181,7 @@ export const TherapyDescriptionSection = styled.section`
 
 export const TherapyTitle = styled.h2`
     font-size: 28px;
-    color: #FF6347;
+    color: #353535;
     margin-bottom: 20px;
 `;
 
@@ -200,7 +200,7 @@ export const TargetAudienceSection = styled.section`
 
 export const TargetAudienceTitle = styled.h2`
     font-size: 28px;
-    color: #FF6347;
+   color: #353535;;
     margin-bottom: 20px;
 `;
 
