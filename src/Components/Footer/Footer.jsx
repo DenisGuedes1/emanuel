@@ -5,7 +5,7 @@ const FooterComponents = () => {
   return (
     <FooterContainer>
       <FooterText>Desenvolvido por DGM Tech &copy; 2024. Todos os direitos reservados.</FooterText>
-      <FooterText>Psicólogo: Emanuel Gomez - CRP 03/30717</FooterText>
+      <FooterText>Psicólogo: Emanuel Gomes - CRP 03/30717</FooterText>
       <SocialIcons>
         <a href="mailto:emanuelgomezz718@gmail.com" target="_blank" rel="noopener noreferrer">
           <EmailIcon />
