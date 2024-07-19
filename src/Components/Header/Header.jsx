@@ -9,7 +9,7 @@ export const HeadersComponents = () => {
         <>
             <DivHeader>
                 <Nav>
-                    <LogoText>Emanuel Gomez</LogoText>
+                    <LogoText>Emanuel Gomes</LogoText>
                     <H4Crp>CRP 03/30717</H4Crp>
                 </Nav>
                
